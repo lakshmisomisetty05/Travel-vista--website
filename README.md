@@ -47,6 +47,7 @@ Collect customer feedback
 Provide a responsive and user-friendly interface
 
 METHODOLOGY
+
 🔹 HTML
 
 HTML is used to structure the content of the website. It defines the layout, sections, navigation, images, and forms required for the travel website.
