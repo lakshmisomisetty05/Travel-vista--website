@@ -3,7 +3,7 @@ Responsive Travel website frontend
 
 Travel Vista website
 Responsive Travel website frontend Website for hotel built on HTML, CSS and JavaScript
-Checkout Demo [Here](https://github.com/lakshmisomisetty05/Travel Vista-website/)
+Checkout Demo [Here]([https://github.com/lakshmisomisetty05/Travel Vista-website/](https://github.com/lakshmisomisetty05/Travel-vista--website/tree/main/Travel%20Vista-website))
 
 ABSTRACT
 his project focuses on developing a responsive travel and hotel information website. The application is built using HTML, CSS, and JavaScript to provide users with complete information about travel destinations, hotel services, and available packages.
